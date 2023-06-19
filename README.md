@@ -11,7 +11,6 @@ Quais são os softwares/site necessários para a aula?
 
 ## Propósito
 - [ ] O que é API?
-- [ ] Diferença entre REST e RESTful
 - [ ] Conceitos Verbos HTTP
 - [ ] Construção e compreensão dos métodos POST e GET
 
